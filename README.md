@@ -22,5 +22,7 @@ Go to browser and type http://localhost:5000/  to get the view of the system.
 
 For uploading image you should upload the preproccesed image only.
 
+Output image will be stored in the 'output' folder.
+
 Hope you will enjoy it!!!
 
