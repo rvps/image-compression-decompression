@@ -13,6 +13,8 @@ To convert into .h5 file, I have uploaded createh5.py file.
 Pretrained Model -
   https://drive.google.com/file/d/1RDoVQmxNbJESOBkmXH6T_3T811Zq0K2s/view?usp=sharing
   
+  The model is trained on 60 epochs with diagnostic-step size as 30.
+  
 After training the model download the checkpoint and save it in the directory where app.py is stored.
 
 Run command -
